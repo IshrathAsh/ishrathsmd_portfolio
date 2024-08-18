@@ -71,7 +71,7 @@ sections:
         label: Microsoft Office Excel
         url: ''
       - type: Label
-        label: Next.js
+        label: Tableau
         url: ''
       - type: Label
         label: Netlify
