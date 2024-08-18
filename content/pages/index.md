@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: Ishrath's Portfolio
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
