@@ -82,6 +82,9 @@ sections:
       - type: Label
         label: Power BI
         url: ''
+      - type: Label
+        label: HTML
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
