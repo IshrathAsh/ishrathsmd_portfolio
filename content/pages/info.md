@@ -14,13 +14,11 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      #### "Hi there! I’m Shaik Mahammad Ishrath, a dedicated data analyst with
-      a passion for uncovering insights from data. Welcome to my personal
+      #### Hi there! I’m *Shaik Mahammad Ishrath*, a dedicated **data analyst**
+      with a passion for uncovering insights from data. Welcome to my personal
       portfolio where you can explore my projects, skills, and experiences in
       data analysis and machine learning. I’m excited to share my journey with
       you!
-
-
 
     media:
       type: ImageBlock
