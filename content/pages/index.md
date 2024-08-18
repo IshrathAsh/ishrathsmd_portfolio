@@ -74,7 +74,7 @@ sections:
         label: Tableau
         url: ''
       - type: Label
-        label: Netlify
+        label: SQL
         url: ''
       - type: Label
         label: C++
