@@ -89,7 +89,7 @@ sections:
         label: HTML
         url: ''
       - type: Label
-        label: CSS
+        label: JavaScript
         url: ''
     colors: colors-f
     elementId: ''
