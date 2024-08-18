@@ -91,6 +91,9 @@ sections:
       - type: Label
         label: JavaScript
         url: ''
+      - type: Label
+        label: Numpy
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
