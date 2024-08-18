@@ -22,7 +22,7 @@ sections:
       - type: Button
         label: Know more about me
         altText: ''
-        url: /
+        url: /projects
         showIcon: true
         icon: arrowRightCircle
         iconPosition: right
