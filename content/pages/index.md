@@ -97,6 +97,9 @@ sections:
       - type: Label
         label: Numpy
         url: ''
+      - type: Label
+        label: Matplotlib
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
