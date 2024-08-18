@@ -59,7 +59,7 @@ sections:
         justifyContent: flex-start
   - type: LabelsSection
     title: Skills
-    subtitle: 'Skills and Tools I''m '
+    subtitle: Skills and Tools I'm habitual with
     items:
       - type: Label
         label: Python
