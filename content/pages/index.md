@@ -12,8 +12,8 @@ backgroundImage:
 sections:
   - type: HeroSection
     title: >-
-      I’m Shaik Mahammad Ishrath, a passionate Data Analyst with a background in
-      Data Science and Computer Science Engineering. 
+      I’m Shaik Mahammad Ishrath, a passionate Data Analyst and an aspiring Data
+      Scientist.
     subtitle: >-
       A data analyst with a knack for turning data into actionable insights. I
       leverage my skills in machine learning and data analysis to solve complex
