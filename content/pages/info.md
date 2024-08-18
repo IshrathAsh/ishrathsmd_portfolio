@@ -86,8 +86,8 @@ sections:
           **2022 April - 2023 June**
 
 
-          *   Design and Editing Coordinator @[
-          RGURAA](https://rguktrkv.ac.in/alumni/)
+          *   Design and Editing Coordinator
+          @[RGURAA](https://rguktrkv.ac.in/alumni/)
 
 
           ***
