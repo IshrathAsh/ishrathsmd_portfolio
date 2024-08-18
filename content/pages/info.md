@@ -99,18 +99,19 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2022-2026**
 
-          * ba computer sciense at a semi fancy school
+          *   Bachelors of Technology - Computer Sciense - RGUKT RK Valley
 
-          **2014**
+          **2020-2022**
 
-          * react certificate somewhere
+          *   Pre University Course - RGUKT RK Valley
 
-          **2011**
+          **2019-2020**
 
-          * my highschool
+          *   SSC - Sree Krishna English Medium High School
+
         styles:
           self:
             textAlign: left
