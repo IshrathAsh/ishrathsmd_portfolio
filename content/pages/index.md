@@ -92,6 +92,9 @@ sections:
         label: JavaScript
         url: ''
       - type: Label
+        label: Pandas
+        url: ''
+      - type: Label
         label: Numpy
         url: ''
     colors: colors-f
