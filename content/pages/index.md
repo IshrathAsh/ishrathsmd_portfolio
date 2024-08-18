@@ -100,6 +100,9 @@ sections:
       - type: Label
         label: Matplotlib
         url: ''
+      - type: Label
+        label: Canva
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
