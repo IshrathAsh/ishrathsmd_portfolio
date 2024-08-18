@@ -103,6 +103,9 @@ sections:
       - type: Label
         label: Canva
         url: ''
+      - type: Label
+        label: Notion
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
