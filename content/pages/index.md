@@ -15,9 +15,9 @@ sections:
       I’m Shaik Mahammad Ishrath, a passionate Data Analyst and an aspiring Data
       Scientist.
     subtitle: >-
-      A data analyst with a knack for turning data into actionable insights. I
-      leverage my skills in machine learning and data analysis to solve complex
-      problems and contribute to innovative projects.
+      As a data analyst, I believe in the power of data to drive decisions and
+      create meaningful change. I specialize in transforming complex data into
+      clear, actionable insights that can help solve real-world problems.
     actions:
       - type: Button
         label: Know about me
