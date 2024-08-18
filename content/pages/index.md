@@ -20,7 +20,7 @@ sections:
       can continue to scroll down to see more details and credentials about me.
     actions:
       - type: Button
-        label: Hire me
+        label: Know about me
         altText: ''
         url: /
         showIcon: true
