@@ -69,26 +69,33 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: >+
+          **2024**
 
-          * freelance @freelance.me
 
-          **2018-2021**
+          *   Digital Content Creation Coordinator @ Student Recreation Center -
+          RGUKT RKV
 
-          * fullstack at this startup
 
-          **2015**
+          **2023**
 
-          * senior front-end at this place
 
-          **2013**
+          *   Graphic Designer @ Abhiyanth 2023 - Annual Fest
 
-          * intern developer at a big company
 
-          **2011**
+          **2022 April - 2023 June**
 
-          * flipping burgers
+
+          *   Design and Editing Coordinator @ RGURAA
+
+
+          *   *   *   *   *   *   *   *   \<div style="text-align: left">\</div>
+
+
+          ****
+
+
+
         styles:
           self:
             textAlign: left
