@@ -89,12 +89,7 @@ sections:
           *   Design and Editing Coordinator @ RGURAA
 
 
-          *   *   *   *   *   *   *   *   \<div style="text-align: left">\</div>
-
-
-          ****
-
-
+          ***
 
         styles:
           self:
