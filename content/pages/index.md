@@ -20,7 +20,7 @@ sections:
       clear, actionable insights that can help solve real-world problems.
     actions:
       - type: Button
-        label: Know about me
+        label: Know more about me
         altText: ''
         url: /
         showIcon: true
