@@ -22,6 +22,8 @@ sections:
 
       *   Junior B.Tech in CSE  @ RGUKT RK Valley
 
+
+
     media:
       type: ImageBlock
       url: /images/R200453_SHAIK_MAHAMMAD_ISHRATH.jpg
