@@ -13,18 +13,14 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      Hi there! I’m *Shaik Mahammad Ishrath*, a dedicated **data analyst** with
-      a passion for uncovering insights from data. Welcome to my personal
-      portfolio where you can explore my projects, skills, and experiences in
-      data analysis and machine learning. I’m excited to share my journey with
-      you!
+    text: |+
+      *   Hi, I'm Ishrath
 
+      *   Data analyst soon to be Data Scientist
 
-      I hold a Bachelor of Computer Science and Engineering from Rajiv Gandhi
-      University of Knowledge Technologies - RK Valley. My journey into data
-      science started from a fascination with numbers and patterns, which led me
-      to explore various aspects of data analysis and machine learning.
+      *   Love to bring ideas to life
+
+      *   Junior B.Tech in CSE  @ RGUKT RK Valley
 
     media:
       type: ImageBlock
