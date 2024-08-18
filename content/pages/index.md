@@ -74,7 +74,7 @@ sections:
         label: Tableau
         url: ''
       - type: Label
-        label: SQL
+        label: MySql
         url: ''
       - type: Label
         label: C++
