@@ -112,9 +112,6 @@ sections:
           *   Design and Editing Coordinator
           @[RGURAA](https://rguktrkv.ac.in/alumni/)
 
-
-          ***
-
         styles:
           self:
             textAlign: left
