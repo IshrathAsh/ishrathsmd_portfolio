@@ -123,17 +123,6 @@ sections:
               - pl-0
               - pb-0
               - pr-0
-      - type: FeaturedItem
-        title: Item Title
-        subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
     columns: 2
     spacingX: 60
     spacingY: 60
