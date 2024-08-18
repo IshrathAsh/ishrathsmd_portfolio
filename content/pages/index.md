@@ -88,6 +88,9 @@ sections:
       - type: Label
         label: HTML
         url: ''
+      - type: Label
+        label: CSS
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
