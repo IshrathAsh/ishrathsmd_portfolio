@@ -159,6 +159,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: Made with love
     title: Projects
 ---
