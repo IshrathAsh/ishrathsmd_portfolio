@@ -15,9 +15,9 @@ sections:
       I’m Shaik Mahammad Ishrath, a passionate Data Analyst with a background in
       Data Science and Computer Science Engineering. 
     subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      A data analyst with a knack for turning data into actionable insights. I
+      leverage my skills in machine learning and data analysis to solve complex
+      problems and contribute to innovative projects.
     actions:
       - type: Button
         label: Know about me
