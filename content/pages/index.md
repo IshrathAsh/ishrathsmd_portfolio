@@ -30,7 +30,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/R200453_SHAIK_MAHAMMAD_ISHRATH.jpg
       altText: Hero image
       caption: Caption of the image
       elementId: ''
