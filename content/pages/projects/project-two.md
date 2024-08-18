@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Netflix Dashboard
 colors: colors-a
-date: '2021-12-02'
+date: ''
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
