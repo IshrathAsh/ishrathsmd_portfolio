@@ -5,9 +5,8 @@ colors: colors-a
 date: '2024-06-29'
 client: ''
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Brought Insights from 2000 lines ofComplex  Excel Data into visually
+  understanding Dashboard
 featuredImage:
   type: ImageBlock
   url: /images/Netflix.png
