@@ -65,7 +65,7 @@ sections:
         label: Python
         url: ''
       - type: Label
-        label: React
+        label: ''
         url: ''
       - type: Label
         label: Microsoft Office
