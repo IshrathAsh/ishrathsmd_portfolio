@@ -83,7 +83,7 @@ sections:
         label: C++
         url: ''
       - type: Label
-        label: Swift
+        label: Power BI
         url: ''
     colors: colors-f
     elementId: ''
