@@ -96,8 +96,9 @@ sections:
           **2024**
 
 
-          *   Digital Content Creation Coordinator @ Student Recreation Center -
-          RGUKT RKV
+          *   Digital Content Creation Coordinator @[ Student Recreation Center
+          - RGUKT
+          RKV](https://www.linkedin.com/company/src-rgukt-rkvalley/mycompany/)
 
 
           **2023**
