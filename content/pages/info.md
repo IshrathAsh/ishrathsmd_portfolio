@@ -68,6 +68,29 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
+        subtitle: 'Education:'
+        text: |+
+          **2022-2026**
+
+          *   Bachelors of Technology - Computer Sciense - RGUKT RK Valley
+
+          **2020-2022**
+
+          *   Pre University Course - RGUKT RK Valley
+
+          **2019-2020**
+
+          *   SSC - Sree Krishna English Medium High School
+
+        styles:
+          self:
+            textAlign: left
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+      - type: FeaturedItem
         subtitle: 'Experience:'
         text: >+
           **2024**
@@ -91,29 +114,6 @@ sections:
 
 
           ***
-
-        styles:
-          self:
-            textAlign: left
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-      - type: FeaturedItem
-        subtitle: 'Education:'
-        text: |+
-          **2022-2026**
-
-          *   Bachelors of Technology - Computer Sciense - RGUKT RK Valley
-
-          **2020-2022**
-
-          *   Pre University Course - RGUKT RK Valley
-
-          **2019-2020**
-
-          *   SSC - Sree Krishna English Medium High School
 
         styles:
           self:
