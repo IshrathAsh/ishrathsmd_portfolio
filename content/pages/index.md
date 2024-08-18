@@ -68,7 +68,7 @@ sections:
         label: C
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: Microsoft Office Excel
         url: ''
       - type: Label
         label: Next.js
