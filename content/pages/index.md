@@ -4,7 +4,7 @@ title: Ishrath's Portfolio
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/milad-fakurian-PGdW_bHDbpI-unsplash.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
