@@ -4,7 +4,7 @@ title: About
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/milad-fakurian-5zfkHMkccjc-unsplash.jpg
+  url: /images/milad-fakurian-M8FzmNMBYek-unsplash.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
