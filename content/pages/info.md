@@ -14,15 +14,13 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: |+
-      *   Hi, I'm Ishrath
+      *   **Hi, I'm Ishrath**
 
-      *   Data analyst soon to be Data Scientist
+      *   **Data analyst soon to be Data Scientist**
 
-      *   Love to bring ideas to life
+      *   **Love to bring ideas to life**
 
-      *   Junior B.Tech in CSE  @ RGUKT RK Valley
-
-
+      *   **Junior B.Tech in CSE  @ RGUKT RK Valley**
 
     media:
       type: ImageBlock
