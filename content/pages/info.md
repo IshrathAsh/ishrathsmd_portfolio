@@ -20,7 +20,7 @@ sections:
 
       ## **Love to bring ideas to life**
 
-      ## **Junior B.Tech in CSE  @ RGUKT RK Valley**
+      ## **CSE - B.Tech - Junior @ RGUKT RK Valley**
 
     media:
       type: ImageBlock
