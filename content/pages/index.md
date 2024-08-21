@@ -71,9 +71,6 @@ sections:
         label: MySql
         url: ''
       - type: Label
-        label: C++
-        url: ''
-      - type: Label
         label: Power BI
         url: ''
       - type: Label
