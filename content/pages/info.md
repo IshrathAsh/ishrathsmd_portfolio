@@ -177,6 +177,9 @@ sections:
         label: Bootstrap
       - type: Label
         label: HTML
+      - type: Label
+        label: JavaScript
+        url: ''
   - type: DividerSection
     styles:
       self:
