@@ -187,6 +187,9 @@ sections:
         label: Pandas
         url: ''
       - type: Label
+        label: Canva
+        url: ''
+      - type: Label
         label: Matplotlib
         url: ''
   - type: DividerSection
