@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: A Dashboard about World Wide Popular Songs
 colors: colors-a
-date: ''
+date: '2024-07-23'
 client: ''
 description: >-
   A simple dashboard showing popularity of the song on the popular platforms ,
