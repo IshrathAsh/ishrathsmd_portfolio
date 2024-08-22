@@ -27,3 +27,5 @@ media:
 **Objective : Create a insightful dashboard which gives insights of data of 3000+ movies and TV Shows combined**
 
 **Resources : Youtube - DataScience Roadmap**
+
+[**Tableau Link**](https://public.tableau.com/views/NetflixDashboard-Ishrath/Netflix?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
