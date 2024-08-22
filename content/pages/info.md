@@ -182,6 +182,7 @@ sections:
               - pl-0
               - pb-0
               - pr-0
+        title: 'Experience:'
     columns: 1
     spacingX: 30
     spacingY: 36
