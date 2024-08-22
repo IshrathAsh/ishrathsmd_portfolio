@@ -172,7 +172,7 @@ sections:
       - type: Label
         label: MySql
       - type: Label
-        label: Pancakes
+        label: Power BI
       - type: Label
         label: C++
       - type: Label
