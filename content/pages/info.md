@@ -178,9 +178,7 @@ sections:
         title: ''
         subtitle: ''
         text: |+
-          # **-**
-
-
+          \<div style="text-align: center"># **-**\</div>
 
         elementId: ''
         styles:
