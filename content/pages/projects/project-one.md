@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: A Dashboard about World Wide Popular Songs
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
