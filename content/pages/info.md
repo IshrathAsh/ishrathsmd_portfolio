@@ -186,6 +186,9 @@ sections:
       - type: Label
         label: Pandas
         url: ''
+      - type: Label
+        label: Matplotlib
+        url: ''
   - type: DividerSection
     styles:
       self:
