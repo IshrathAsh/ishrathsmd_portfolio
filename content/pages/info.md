@@ -166,7 +166,7 @@ sections:
       - type: Label
         label: C
       - type: Label
-        label: Microsoft Office
+        label: Tableau
       - type: Label
         label: MS Excel
       - type: Label
