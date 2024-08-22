@@ -181,6 +181,9 @@ sections:
         label: JavaScript
         url: ''
       - type: Label
+        label: Numpy
+        url: ''
+      - type: Label
         label: Pandas
         url: ''
   - type: DividerSection
