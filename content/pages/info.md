@@ -195,6 +195,9 @@ sections:
       - type: Label
         label: Notion
         url: ''
+      - type: Label
+        label: Figma
+        url: ''
   - type: DividerSection
     styles:
       self:
