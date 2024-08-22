@@ -143,16 +143,6 @@ sections:
               - pr-0
         title: 'Education:'
       - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        text: |+
-          \<div style="text-align: center">-\</div>
-
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
         subtitle: ''
         text: >+
           **2024**
