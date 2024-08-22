@@ -170,7 +170,7 @@ sections:
       - type: Label
         label: MS Excel
       - type: Label
-        label: Netlify
+        label: MySql
       - type: Label
         label: Pancakes
       - type: Label
