@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: GATE Exam 2024 - Statistical Dashboard
 colors: colors-a
-date: '2022-01-22'
+date: ''
 client: ''
 description: Created a simple statistical Report on the scraped Data
 featuredImage:
