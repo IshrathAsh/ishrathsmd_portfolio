@@ -174,7 +174,7 @@ sections:
               - pr-0
     columns: 1
     spacingX: 30
-    spacingY: 60
+    spacingY: 36
     styles:
       self:
         height: auto
