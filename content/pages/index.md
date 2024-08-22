@@ -62,16 +62,13 @@ sections:
         label: C
         url: ''
       - type: Label
-        label: Microsoft Office Excel
+        label: MS Excel
         url: ''
       - type: Label
         label: Tableau
         url: ''
       - type: Label
         label: MySql
-        url: ''
-      - type: Label
-        label: C++
         url: ''
       - type: Label
         label: Power BI
@@ -100,6 +97,9 @@ sections:
       - type: Label
         label: Notion
         url: ''
+      - type: Label
+        label: Figma
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
@@ -127,7 +127,7 @@ sections:
     showDescription: true
     showFeaturedImage: true
     showReadMoreLink: true
-    variant: variant-b
+    variant: variant-d
     projects:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
