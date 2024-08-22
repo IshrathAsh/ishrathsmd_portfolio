@@ -180,6 +180,9 @@ sections:
       - type: Label
         label: JavaScript
         url: ''
+      - type: Label
+        label: Pandas
+        url: ''
   - type: DividerSection
     styles:
       self:
