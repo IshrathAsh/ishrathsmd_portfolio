@@ -175,7 +175,7 @@ sections:
               - pr-0
         title: 'Experience:'
       - type: FeaturedItem
-        title: Item Title
+        title: ''
         subtitle: ''
         text: |+
           # **-**
