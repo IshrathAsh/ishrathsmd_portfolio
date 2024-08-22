@@ -192,6 +192,9 @@ sections:
       - type: Label
         label: Matplotlib
         url: ''
+      - type: Label
+        label: Notion
+        url: ''
   - type: DividerSection
     styles:
       self:
