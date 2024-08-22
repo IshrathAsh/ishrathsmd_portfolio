@@ -176,7 +176,7 @@ sections:
       - type: Label
         label: Bootstrap
       - type: Label
-        label: Swift
+        label: HTML
   - type: DividerSection
     styles:
       self:
