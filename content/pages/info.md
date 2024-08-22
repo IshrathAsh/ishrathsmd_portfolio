@@ -143,6 +143,16 @@ sections:
               - pr-0
         title: 'Education:'
       - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: |+
+          \<div style="text-align: center"># **-**\</div>
+
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
         subtitle: ''
         text: >+
           **2024**
@@ -174,16 +184,6 @@ sections:
               - pb-0
               - pr-0
         title: 'Experience:'
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        text: |+
-          \<div style="text-align: center"># **-**\</div>
-
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
     columns: 1
     spacingX: 30
     spacingY: 36
