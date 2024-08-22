@@ -62,7 +62,7 @@ sections:
         label: C
         url: ''
       - type: Label
-        label: Microsoft Office Excel
+        label: MS Excel
         url: ''
       - type: Label
         label: Tableau
