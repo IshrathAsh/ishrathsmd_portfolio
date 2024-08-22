@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: A Dashboard about World Wide Popular Songs
 colors: colors-a
-date: '2021-10-31'
+date: ''
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
