@@ -4,7 +4,7 @@ title: GATE Exam 2024 - Statistical Dashboard
 colors: colors-a
 date: '2022-01-22'
 client: ''
-description: 'Created a simple statistical '
+description: Created a simple statistical Report on the scraped Data
 featuredImage:
   type: ImageBlock
   url: /images/GATE Exam Statistics.png
