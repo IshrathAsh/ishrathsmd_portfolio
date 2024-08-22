@@ -174,7 +174,7 @@ sections:
       - type: Label
         label: Power BI
       - type: Label
-        label: C++
+        label: Bootstrap
       - type: Label
         label: Swift
   - type: DividerSection
