@@ -142,6 +142,16 @@ sections:
               - pb-0
               - pr-0
       - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: >+
+          \--------------------------------------------------------------------------
+
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
         subtitle: 'Experience:'
         text: >+
           **2024**
@@ -172,16 +182,6 @@ sections:
               - pl-0
               - pb-0
               - pr-0
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        text: >+
-          \--------------------------------------------------------------------------
-
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
     columns: 1
     spacingX: 30
     spacingY: 36
