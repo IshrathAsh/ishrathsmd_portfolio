@@ -172,7 +172,7 @@ sections:
               - pl-0
               - pb-0
               - pr-0
-    columns: 2
+    columns: 1
     spacingX: 60
     spacingY: 60
     styles:
