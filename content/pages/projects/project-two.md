@@ -5,8 +5,8 @@ colors: colors-a
 date: '2024-06-29'
 client: ''
 description: >-
-  Brought Insights from 2000 lines ofComplex  Excel Data into visually
-  understanding Dashboard
+  A Netflix Dashboard made on Tableau , which gives great details about the
+  movie we select.
 featuredImage:
   type: ImageBlock
   url: /images/Netflix.png
