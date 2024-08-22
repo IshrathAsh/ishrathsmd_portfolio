@@ -12,6 +12,7 @@ featuredImage:
   type: ImageBlock
   url: /images/GATE Exam Statistics.png
   altText: Project thumbnail image
+  caption: GATE 2024 Statistical Dashboard
 media:
   type: ImageBlock
   url: /images/bg3.jpg
