@@ -173,7 +173,7 @@ sections:
               - pb-0
               - pr-0
       - type: FeaturedItem
-        title: Item Title
+        title: ''
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
