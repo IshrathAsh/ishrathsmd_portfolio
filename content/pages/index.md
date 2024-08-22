@@ -97,6 +97,9 @@ sections:
       - type: Label
         label: Notion
         url: ''
+      - type: Label
+        label: Figma
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
