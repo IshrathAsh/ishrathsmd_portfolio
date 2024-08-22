@@ -31,7 +31,7 @@ styles:
 bottomSections:
   - type: ContactSection
     backgroundSize: full
-    title: 'Let''s Share '
+    title: Let's Share .....
     colors: colors-f
     form:
       type: FormBlock
