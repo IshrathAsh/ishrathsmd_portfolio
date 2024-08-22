@@ -70,7 +70,7 @@
                 "type": "Link",
                 "label": "Instagram",
                 "altText": "",
-                "url": "/https://www.instagram.com/ishrath_ash/",
+                "url": "https://www.instagram.com/ishrath_ash",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
