@@ -87,7 +87,7 @@
             "address": "4th Road ,Anantapur , Andhra Pradesh",
             "addressAltText": "My address"
         },
-        "copyrightText": ">  Background Images -\n>\n> [ Milad Fakurian ](https://unsplash.com/@fakurian)\n\n> Powered by \n>\n> [Netlify](https://www.netlify.com/platform/)\n\n",
+        "copyrightText": "> Background Images -\n>\n> [ Milad Fakurian ](https://unsplash.com/@fakurian)\n>\n>\n>\n>\n\n> Powered by\n>\n> [Netlify](https://www.netlify.com/platform/)\n\n",
         "styles": {
             "self": {
                 "width": "narrow",
