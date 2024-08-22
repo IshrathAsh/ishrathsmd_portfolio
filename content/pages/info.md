@@ -62,6 +62,59 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
+  - type: DividerSection
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+        borderStyle: solid
+  - type: LabelsSection
+    colors: colors-f
+    subtitle: 'Skills:'
+    items:
+      - type: Label
+        label: Python
+      - type: Label
+        label: C
+      - type: Label
+        label: Tableau
+      - type: Label
+        label: MS Excel
+      - type: Label
+        label: MySql
+      - type: Label
+        label: Power BI
+      - type: Label
+        label: Bootstrap
+      - type: Label
+        label: HTML
+      - type: Label
+        label: JavaScript
+        url: ''
+      - type: Label
+        label: Numpy
+        url: ''
+      - type: Label
+        label: Pandas
+        url: ''
+      - type: Label
+        label: Canva
+        url: ''
+      - type: Label
+        label: Matplotlib
+        url: ''
+      - type: Label
+        label: Notion
+        url: ''
+      - type: Label
+        label: Figma
+        url: ''
   - type: FeaturedItemsSection
     colors: colors-f
     items:
@@ -145,57 +198,4 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: LabelsSection
-    colors: colors-f
-    subtitle: 'Skills:'
-    items:
-      - type: Label
-        label: Python
-      - type: Label
-        label: C
-      - type: Label
-        label: Tableau
-      - type: Label
-        label: MS Excel
-      - type: Label
-        label: MySql
-      - type: Label
-        label: Power BI
-      - type: Label
-        label: Bootstrap
-      - type: Label
-        label: HTML
-      - type: Label
-        label: JavaScript
-        url: ''
-      - type: Label
-        label: Numpy
-        url: ''
-      - type: Label
-        label: Pandas
-        url: ''
-      - type: Label
-        label: Canva
-        url: ''
-      - type: Label
-        label: Matplotlib
-        url: ''
-      - type: Label
-        label: Notion
-        url: ''
-      - type: Label
-        label: Figma
-        url: ''
 ---
