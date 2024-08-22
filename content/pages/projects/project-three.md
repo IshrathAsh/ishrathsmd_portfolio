@@ -17,11 +17,9 @@ media:
 ---
 **Platform : Tableau**
 
-**Dataset : WebScraping from Collegedunia.com** 
+**Dataset : WebScraping from Collegedunia.com**
 
 **Challenges Faced : To overcome 403 Error - I modified Request Headers .Other solution is to change user agents.**
-
-**Objective : Create a insightful dashboard which gives insights of data of 3000+ movies and TV Shows combined**
 
 **Tech Used : Python - BeautifulSoup - Pandas**
 
