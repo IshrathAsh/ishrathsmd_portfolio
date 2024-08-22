@@ -119,7 +119,7 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        subtitle: 'Education:'
+        subtitle: ''
         text: |+
           **2022-2026**
 
