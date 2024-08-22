@@ -5,9 +5,8 @@ colors: colors-a
 date: ''
 client: ''
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  A simple dashboard showing popularity of the song on the popular platforms ,
+  and the deatails of the song too.Check it out for more insights.
 featuredImage:
   type: ImageBlock
   url: /images/Popular Song Analytics.png
