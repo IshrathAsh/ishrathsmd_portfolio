@@ -152,7 +152,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        subtitle: 'Experience:'
+        subtitle: ''
         text: >+
           **2024**
 
