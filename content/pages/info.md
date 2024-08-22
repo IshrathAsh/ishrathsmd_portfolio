@@ -164,7 +164,7 @@ sections:
       - type: Label
         label: Python
       - type: Label
-        label: React
+        label: C
       - type: Label
         label: Microsoft Office
       - type: Label
