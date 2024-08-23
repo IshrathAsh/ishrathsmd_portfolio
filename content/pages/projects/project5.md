@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: BIGStep - App for Walmart
-date: '2024-07-01'
+date: '2024-07-16'
 client: ''
 description: An App Prototype for Walmart Sparkathon 2024 - using Figma
 featuredImage:
