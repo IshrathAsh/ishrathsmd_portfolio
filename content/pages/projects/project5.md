@@ -24,7 +24,7 @@ colors: colors-a
 
 ***Hackathon Objective :*** **Under Emerging Tech Field - Find a problem with the solution in Walmart Stores**
 
-***BIGStep Team : *****Bhavya,Ishrath,Greeshma,Sam**
+\*\*\*BIGStep Team : \*\*\***Bhavya,Ishrath,Greeshma,Sam**
 
 ***Solution for the problem :***
 
@@ -44,4 +44,4 @@ colors: colors-a
 
 **Definitely check out this app prototype.....**
 
-\*\*\*\*[**App & details - Figma Link**](https://www.figma.com/proto/wTfCYmNJ6215dHoY4UWMBA/BIGStep?node-id=1-16990\&t=bA0mzQ2xlw6aYkE2-1)
+[**App & details - Figma Link**](https://www.figma.com/proto/wTfCYmNJ6215dHoY4UWMBA/BIGStep?node-id=1-16990\&t=bA0mzQ2xlw6aYkE2-1)
