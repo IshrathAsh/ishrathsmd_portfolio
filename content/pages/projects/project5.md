@@ -12,7 +12,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Screenshot from 2024-08-23 15-32-53.png
+  url: /images/Screenshot from 2024-08-23 15-56-06.png
   altText: BIGStep App
   caption: Caption of the image
   elementId: ''
