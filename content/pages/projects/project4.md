@@ -3,7 +3,9 @@ type: ProjectLayout
 title: Event Management Website
 date: '2024-08-01'
 client: ''
-description: An Event Management Website made on with my team Fantastic Four for Hackathon
+description: >-
+  A Responsive - Event Management Website made on with my team Fantastic Four
+  for Hackathon
 featuredImage:
   type: ImageBlock
   url: /images/Netflix.png
