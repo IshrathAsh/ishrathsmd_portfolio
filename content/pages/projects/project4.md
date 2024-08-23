@@ -22,13 +22,13 @@ bottomSections: []
 metaTags: []
 colors: colors-a
 ---
-**Platform : Github**
+***Platform : *****Github**
 
-**Hackathon Objective : Create a centralized event management system for the university**
+***Hackathon Objective :*** **Create a centralized event management system for the university**
 
-**Team : Ishrath,Sam,Bhavya,Greeshma**
+***Team : *****Ishrath,Sam,Bhavya,Greeshma**
 
-**Features of the Website :** 
+***Features of the Website :***
 
 *   **Chatbot - for the event details**
 
@@ -38,7 +38,7 @@ colors: colors-a
 
 *   **Simple Dashboard for the events in the further week and month**
 
-**Experience : We as a team Fantastic Four previously participated in a hackathon,compared to that we did a better job.We finally deployed too.**
+***Experience :*** **We as a team Fantastic Four previously participated in a hackathon,compared to that we did a better job.We finally deployed too.**
 
 **Definitely check out this website.....**
 
