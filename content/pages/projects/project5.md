@@ -20,7 +20,7 @@ bottomSections: []
 metaTags: []
 colors: colors-a
 ---
-***Platform :** ***Figma**
+***Platform :*** **Figma**
 
 ***Hackathon Objective :*** **Under Emerging Tech Field - Find a problem with the solution in Walmart Stores**
 
