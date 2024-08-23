@@ -4,8 +4,8 @@ title: Event Management Website
 date: '2024-08-01'
 client: ''
 description: >-
-  A Responsive - Event Management Website made on with my team Fantastic Four
-  for Hackathon
+  A Responsive - Event Management Website- deployed on Github - made  with my
+  team Fantastic Four for Hackathon
 featuredImage:
   type: ImageBlock
   url: /images/Netflix.png
