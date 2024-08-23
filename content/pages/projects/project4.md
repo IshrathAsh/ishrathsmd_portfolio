@@ -3,9 +3,7 @@ type: ProjectLayout
 title: Event Management Website
 date: '2024-08-01'
 client: ''
-description: >-
-  A Netflix Dashboard made on Tableau , which gives great details about the
-  movie we select.
+description: An Event Management Website made on with my team Fantastic Four for Hackathon
 featuredImage:
   type: ImageBlock
   url: /images/Netflix.png
