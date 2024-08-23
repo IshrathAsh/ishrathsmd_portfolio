@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Event Management Website
-date: ''
+date: '2024-08-01'
 client: ''
 description: >-
   A Netflix Dashboard made on Tableau , which gives great details about the
