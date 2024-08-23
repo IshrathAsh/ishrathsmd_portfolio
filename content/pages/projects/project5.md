@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Event Management Website
+title: BIGStep - App for Walmart
 date: '2024-07-31'
 client: ''
 description: >-
