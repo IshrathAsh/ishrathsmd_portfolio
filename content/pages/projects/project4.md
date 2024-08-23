@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Event Management Website
-date: '2024-08-01'
+date: '2024-07-31'
 client: ''
 description: >-
   A Responsive - Event Management Website- deployed on Github - made  with my
