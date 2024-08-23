@@ -24,7 +24,7 @@ colors: colors-a
 
 ***Hackathon Objective :*** **Under Emerging Tech Field - Find a problem with the solution in Walmart Stores**
 
-\*\*\*BIGStep Team : \*\*\***Bhavya,Ishrath,Greeshma,Sam**
+***BIGStep Team : *****Bhavya,Ishrath,Greeshma,Sam**
 
 ***Solution for the problem :***
 
