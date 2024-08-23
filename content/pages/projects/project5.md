@@ -3,9 +3,7 @@ type: ProjectLayout
 title: BIGStep - App for Walmart
 date: '2024-07-31'
 client: ''
-description: >-
-  A Responsive - Event Management Website- deployed on Github - made  with my
-  team Fantastic Four for Hackathon
+description: An App Prototype for Walmart Sparkathon 2024 - using Figma
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot from 2024-08-23 15-32-53.png
