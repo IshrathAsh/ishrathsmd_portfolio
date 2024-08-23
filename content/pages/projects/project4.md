@@ -22,12 +22,24 @@ bottomSections: []
 metaTags: []
 colors: colors-a
 ---
-**Platform : Tableau**
+**Platform : Github**
 
-**Dataset : Kaggle**
+**Hackathon Objective : Create a centralized event management system for the university**
 
-**Objective : Create a insightful dashboard which gives insights of data of 3000+ movies and TV Shows combined**
+**Team : Ishrath,Sam,Bhavya,Greeshma**
 
-**Resources : Youtube - DataScience Roadmap**
+**Features of the Website :** 
 
-[**Tableau Link**](https://public.tableau.com/views/NetflixDashboard-Ishrath/Netflix?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+*   **Chatbot - for the event details**
+
+*   **Centralised Information - with posters - form there itself**
+
+*   **Google Calender for the further events**
+
+*   **Simple Dashboard for the events in the further week and month**
+
+**Experience : We as a team Fantastic Four previously participated in a hackathon,compared to that we did a better job.We finally deployed too.**
+
+**Definitely check out this website.....**
+
+[**Website - BIGStep -Link**](https://ishrathash.github.io/BIGStep/)
