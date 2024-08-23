@@ -8,7 +8,7 @@ description: >-
   team Fantastic Four for Hackathon
 featuredImage:
   type: ImageBlock
-  url: /images/Netflix.png
+  url: /images/Screenshot from 2024-08-23 15-32-53.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
