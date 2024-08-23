@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Netflix Dashboard
+title: Event Management Website
 date: '2024-06-29'
 client: ''
 description: >-
