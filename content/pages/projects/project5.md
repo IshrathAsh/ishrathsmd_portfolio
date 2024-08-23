@@ -6,7 +6,7 @@ client: ''
 description: An App Prototype for Walmart Sparkathon 2024 - using Figma
 featuredImage:
   type: ImageBlock
-  url: /images/Screenshot from 2024-08-23 15-32-53.png
+  url: /images/Screenshot from 2024-08-23 15-56-06.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
