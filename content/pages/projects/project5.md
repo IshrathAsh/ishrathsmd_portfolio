@@ -20,24 +20,28 @@ bottomSections: []
 metaTags: []
 colors: colors-a
 ---
-***Platform : *****Github**
+\*\*\*Platform : \*\*\***Figma**
 
-***Hackathon Objective :*** **Create a centralized event management system for the university**
+***Hackathon Objective :*** **Under Emerging Tech Field - Find a problem with the solution in Walmart Stores**
 
-***Team : *****Ishrath,Sam,Bhavya,Greeshma**
+\*\*\*Team : \*\*\***Ishrath,Sam,Bhavya,Greeshma**
 
-***Features of the Website :***
+***Solution for the problem :***
 
-*   **Chatbot - for the event details**
+*   **Cost Savings:
+    Lower expenses on paper and manual labor.Reduces paper waste.**
 
-*   **Centralised Information - with posters - form there itself**
+*   **Improved Efficiency:
+    Streamlined operations and focus on critical tasks.**
 
-*   **Google Calender for the further events**
+*   **Better Customer Experience:
+    Quick access to information and easy feedback.**
 
-*   **Simple Dashboard for the events in the further week and month**
+*   **Organized Store:
+    Incentives for keeping the store tidy.**
 
-***Experience :*** **We as a team Fantastic Four previously participated in a hackathon,compared to that we did a better job.We finally deployed too.**
+****
 
-**Definitely check out this website.....**
+**Definitely check out this app prototype.....**
 
-[**Website - BIGStep -Link**](https://ishrathash.github.io/BIGStep/)
+****[**App & details - Figma Link**](https://www.figma.com/proto/wTfCYmNJ6215dHoY4UWMBA/BIGStep?node-id=1-16990\&t=bA0mzQ2xlw6aYkE2-1)
