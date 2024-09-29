@@ -22,11 +22,11 @@ bottomSections: []
 metaTags: []
 colors: colors-a
 ---
-***Platform : *****Github**
+\*\*\*Platform : \*\*\***Github**
 
 ***Hackathon Objective :*** **Create a centralized event management system for the university**
 
-***Team : *****Ishrath,Sam,Bhavya,Greeshma**
+\*\*\*Team : \*\*\***Ishrath,Sam,Bhavya,Greeshma**
 
 ***Features of the Website :***
 
@@ -43,3 +43,6 @@ colors: colors-a
 **Definitely check out this website.....**
 
 [**Website - BIGStep -Link**](https://ishrathash.github.io/BIGStep/)
+
+[**GitHub LInk**](https://github.com/IshrathAsh/BIGStep)****
+
